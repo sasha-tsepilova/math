@@ -1,0 +1,6 @@
+for n = 1 number of transitive relations is 2 and working time 0.0
+for n = 2 number of transitive relations is 13 and working time 0.0
+for n = 3 number of transitive relations is 171 and working time 0.0009891986846923828
+for n = 4 number of transitive relations is 3994 and working time 0.01798224449157715
+for n = 5 number of transitive relations is 154303 and working time 0.7649602890014648
+for n = 6 number of transitive relations is 9415189 and working time 58.97255206108093
